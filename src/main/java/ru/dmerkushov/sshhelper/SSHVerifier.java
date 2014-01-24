@@ -8,7 +8,8 @@ import ch.ethz.ssh2.ServerHostKeyVerifier;
 
 /**
  *
- * @author shandr
+ * @author Dmitriy Merkushov
+ * @deprecated
  */
 public abstract class SSHVerifier implements ServerHostKeyVerifier {
 
