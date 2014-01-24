@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 
 	<name>ssh-helper</name>
-	<description>Slightly helps to use SSH with Ganymed SSH library</description>
+	<description>Slightly helps to use SSH with Ganymed SSH library or JSch</description>
 	<url>http://dmerkushov.ru</url>
 
 	<parent>
